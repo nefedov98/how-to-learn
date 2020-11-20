@@ -2,3 +2,9 @@
     color: #2f80ed;
     text-decoration: none;
 }
+
+.header__link:hover {
+  color: gray;
+  opacity: 0.5;
+  transition-duration: 1s;
+}

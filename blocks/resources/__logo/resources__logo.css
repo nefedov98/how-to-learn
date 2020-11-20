@@ -1,4 +1,10 @@
-.resources__logo.css {
+.resources__logo {
   width: 270px;
   height: 38px;
+}
+
+.resources__logo:hover {
+  color: black;
+  opacity: 0.5;
+  transition-duration: 1s;
 }
