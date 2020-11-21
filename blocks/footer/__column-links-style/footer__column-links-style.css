@@ -4,7 +4,6 @@
 }
 
 .footer__column-links-style:hover {
-  color: gray;
   opacity: 0.5;
   transition-duration: 1s;
 }
